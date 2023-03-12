@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Monedas</string>
+    <string name="activity_coin_text_view_conversion_de_monedas">Conversión de monedas</string>
+    <string name="activity_coin_text_view_from">De:</string>
+    <string name="activity_coin_text_view_to">A:</string>
+    <string name="activity_coin_edt_from" />
+    <string name="activity_coin_edt_help_to" />
+    <string name="activity_coin_edit_text_help_from">$</string>
+    <string name="activity_coin_text_view_help_result">0</string>
+    <string name="activity_coin_button_calcular">Calcular</string>
+    <string name="activity_coin_button_limpiar">Limpiar</string>
+
+    <string-array name="from">
+        <item>Dólar (USD)</item>
+        <item>Euro</item>
+        <item>Peso (COP)</item>
+    </string-array>
+
+    <string-array name="to">
+        <item>Peso (COP)</item>
+        <item>Euro</item>
+        <item>Dólar (USD)</item>
+    </string-array>
+
+</resources>
