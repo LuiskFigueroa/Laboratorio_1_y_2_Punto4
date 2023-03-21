@@ -8,7 +8,7 @@ import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import com.lcarlosfb.monedas.R
 import com.lcarlosfb.monedas.databinding.ActivityCoinBinding
-import kotlin.math.roundToInt
+
 
 class CoinActivity : AppCompatActivity() {
 
@@ -63,3 +63,5 @@ class CoinActivity : AppCompatActivity() {
 		}
 	}
 }
+
+//Punto 4 de la version 2.0 terminado
