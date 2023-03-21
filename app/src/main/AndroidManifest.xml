@@ -23,8 +23,8 @@
 
         <activity
             android:name=".presentation.coin.CoinActivity"
+            android:configChanges="orientation|screenSize"
             android:exported="false" />
-
 
     </application>
 
